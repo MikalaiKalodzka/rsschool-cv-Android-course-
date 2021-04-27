@@ -19,6 +19,8 @@ _3. Summary:_
 
 _4. Skills:_
 				**Basics of Python, C and #C**
+				**English - Upper-intermediate level**
+				**Spanish - Pre-intermediate level** 
 
 _5. Code:_
 				[GitHub.Python code](https://github.com/MikalaiKalodzka/Python_tasks)				
